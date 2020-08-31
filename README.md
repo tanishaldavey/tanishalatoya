@@ -1,5 +1,8 @@
-### Hi there 👋
+### Tanisha Latoya (she/her), Software Engineer 👋
 
+![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+
+I'm a frontend engineer that hopes to become a full stack engineer sometime in the near future. I'm a 1909/1911 cohort graduate of the Turing School of Software & Design in Denver, CO. Excited to begin my first full time software engineering role with Apple in September 2020. I'm passionate about creating an user experiences that are intuitive and puts uers first. I'm currently learning some backend concepts like building out my own API. My current goal is to finally build out a personal website that houses all my writings -- yes, I also write! 
 <!--
 **tanishalatoya/tanishalatoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
