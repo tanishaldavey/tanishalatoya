@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <h1 align="center">Hi👋, I'm Tanisha</h1>
 <h3 align="center">Frontend Software Engineer. Avid learner. Lover of all things creative.</h3>
 
